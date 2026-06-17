@@ -86,21 +86,21 @@ class Program
         Console.Write("Enter student name: ");
         student.Name = Console.ReadLine();
 
-        // Safe input for Grade 1
+        
         Console.Write("Enter grade 1: ");
         while (!double.TryParse(Console.ReadLine(), out student.Grade1))
         {
             Console.Write("Invalid input! Enter grade 1 again: ");
         }
 
-        // Safe input for Grade 2
+        
         Console.Write("Enter grade 2: ");
         while (!double.TryParse(Console.ReadLine(), out student.Grade2))
         {
             Console.Write("Invalid input! Enter grade 2 again: ");
         }
 
-        // Safe input for Grade 3
+        
         Console.Write("Enter grade 3: ");
         while (!double.TryParse(Console.ReadLine(), out student.Grade3))
         {
