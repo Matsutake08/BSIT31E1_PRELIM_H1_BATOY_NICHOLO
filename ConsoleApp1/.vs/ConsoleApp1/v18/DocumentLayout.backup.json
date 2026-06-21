@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\bnpyc\\source\\repos\\Matsutake08\\BSIT31E1_PRELIM_H1_BATOY_NICHOLO\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\bnpyc\\source\\repos\\matsutake08\\bsit31e1_prelim_h1_batoy_nicholo\\consoleapp1\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\bnpyc\\source\\repos\\matsutake08\\bsit31e1_prelim_h1_batoy_nicholo\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bnpyc\\source\\repos\\Matsutake08\\BSIT31E1_PRELIM_H1_BATOY_NICHOLO\\ConsoleApp1\\ConsoleApp1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,15 +71,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bnpyc\\source\\repos\\Matsutake08\\BSIT31E1_PRELIM_H1_BATOY_NICHOLO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\bnpyc\\source\\repos\\Matsutake08\\BSIT31E1_PRELIM_H1_BATOY_NICHOLO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T11:47:20.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\bnpyc\\source\\repos\\Matsutake08\\BSIT31E1_PRELIM_H1_BATOY_NICHOLO\\ConsoleApp1\\ConsoleApp1\\Student.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
               "ToolTip": "C:\\Users\\bnpyc\\source\\repos\\Matsutake08\\BSIT31E1_PRELIM_H1_BATOY_NICHOLO\\ConsoleApp1\\ConsoleApp1\\Student.cs",
               "RelativeToolTip": "ConsoleApp1\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T11:34:46.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-21T11:34:46.665Z"
             }
           ]
         }
